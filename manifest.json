@@ -9,10 +9,10 @@
     "hasSettings": true
   },
    {
-    "display_name": "CNC Movies & Shows",
-    "value": "cnc",
-    "version": "1.0",
-    "icon": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/icon.png",
+    "display_name": "vegamovies",
+    "value": "vegamovies",
+    "version": "2.0",
+    "icon": ",
     "type": "global",
     "disabled": false
   },
