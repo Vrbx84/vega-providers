@@ -1,0 +1,10 @@
+{
+  "id": "cnc-movies",
+  "name": "CNC Movies & Shows",
+  "version": "1.0.0",
+  "description": "CNC streaming provider for Vega",
+  "author": "Vrbx84",
+  "icon": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/icon.png",
+  "types": ["movie", "tv"],
+  "main": "dist/index.js"
+}
