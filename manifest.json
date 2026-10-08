@@ -8,6 +8,14 @@
     "disabled": false,
     "hasSettings": true
   },
+   {
+    "display_name": "CNC Movies & Shows",
+    "value": "cnc",
+    "version": "1.0",
+    "icon": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/icon.png",
+    "type": "global",
+    "disabled": false
+  },
   {
     "display_name": "MultiStream",
     "value": "autoEmbed",
