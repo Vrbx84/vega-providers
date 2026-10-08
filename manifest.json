@@ -1,4 +1,12 @@
 [
+    {
+    "display_name": "Bolly4u",
+    "value": "bolly4u",
+    "version": "1.0",
+    "icon": "https://bolly4ux.xyz/favicon.ico",
+    "type": "global",
+    "disabled": false
+  },
   {
     "display_name": "VMovies",
     "value": "vega",
@@ -7,14 +15,6 @@
     "type": "global",
     "disabled": false,
     "hasSettings": true
-  },
-   {
-    "display_name": "bolly4u",
-    "value": "bolly4",
-    "version": "2.0",
-    "icon": "",
-    "type": "global",
-    "disabled": false
   },
   {
     "display_name": "MultiStream",
